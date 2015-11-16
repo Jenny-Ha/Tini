@@ -1,1 +1,8 @@
-/* Inserte su codigo aqui */
+body {
+	font-family: 'Roboto', Arial, sans-serif;
+}
+
+footer {
+	background-color: #333;
+	color: #fff;
+}
