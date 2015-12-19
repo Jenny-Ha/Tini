@@ -134,7 +134,9 @@ footer ul {
    .container {
       padding: 5px !important;
    }
-   
+   .row{
+      margin: 0;
+   }
    .top-menu {
       float: none;
    }
@@ -143,6 +145,7 @@ footer ul {
    } 
    .img-portafolio {
       width: 100%;
+      height: auto;
    }
    footer ul {
       text-align: center;
